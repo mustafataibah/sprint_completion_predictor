@@ -1,0 +1,11 @@
+# Linear API settings
+LINEAR_API_KEY = ''
+LINEAR_TEAM_ID = ''
+
+# GitHub API settings
+GITHUB_TOKEN = ''
+GITHUB_REPO_OWNER = ''
+GITHUB_REPO_NAME = ''
+
+# Model settings
+MODEL_FILE = 'completion_predictor_model.joblib'
